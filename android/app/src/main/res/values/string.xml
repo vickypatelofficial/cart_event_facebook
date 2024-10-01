@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Cart Event</string>
+    <string name="facebook_app_id">1572649963655946</string>
+    <string name="fb_login_protocol_scheme">fb1572649963655946</string>
+    <string name="facebook_client_token">2b28ac18d7cb536c66a9423740b70b74</string>
+</resources>
